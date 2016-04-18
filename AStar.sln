@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStar", "AStar\AStar.csproj", "{B8ED48AF-D45F-4745-9048-888DAA1ED960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStar.Tests", "AStar.Tests\AStar.Tests.csproj", "{3D9A824F-983D-4690-8698-4559E43C0464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8ED48AF-D45F-4745-9048-888DAA1ED960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8ED48AF-D45F-4745-9048-888DAA1ED960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8ED48AF-D45F-4745-9048-888DAA1ED960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8ED48AF-D45F-4745-9048-888DAA1ED960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9A824F-983D-4690-8698-4559E43C0464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9A824F-983D-4690-8698-4559E43C0464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9A824F-983D-4690-8698-4559E43C0464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9A824F-983D-4690-8698-4559E43C0464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
